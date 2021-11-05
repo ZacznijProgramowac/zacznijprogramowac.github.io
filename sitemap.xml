@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kurs-javascript.pl/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-node-js/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-escma-script/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-NPM/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-package-json/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-webpack/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-vanilla-js/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-polyfilling/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-babel/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/slowniczek-javascript/co-to-jest-use-strict/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/typy-danych/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/02-typy-danych.html</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/null-undefined/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/typ-boolean/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/typ-number/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/typ-nan-infinity/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/typ-string/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/metody-string/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zmienne-i-typy/obiekty-wrappery/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/konwersje-i-porownania/konwersja-typow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/konwersje-i-porownania/konwersja-boolean/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/konwersje-i-porownania/konwersja-number/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/konwersje-i-porownania/konwersja-string/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/operatory-logiczne/operatory-porownania/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/operatory-logiczne/operatory-logiczne/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/operatory-logiczne/and-or-examples/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/instrukcje-warunkowe/instrukcje-warunkowe/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/instrukcje-warunkowe/instrukcja-switch/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/instrukcje-warunkowe/ternary-operator/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/instrukcje-warunkowe/operator-nullowy/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/instrukcje-warunkowe/optional-chaining-operator/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/petle/petla-for/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/petle/for-in-for-of/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/petle/while-do-while/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zakresy-domkniecia-moduly/obiekt-window/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zakresy-domkniecia-moduly/zakres-blokow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zakresy-domkniecia-moduly/zakres-funkcyjny/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zakresy-domkniecia-moduly/hoisting/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/zakresy-domkniecia-moduly/use-strict/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/funkcje/deklaracja-funkcji/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/funkcje/return-w-funkcji/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/funkcje/parametry-funkcji/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/funkcje/funkcje-zwrotne-callbacks/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/funkcje/domkniecia-closures/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/funkcje/function-return/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/podstawy/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/metody/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/lancuch-prototypow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/foreach-for-of/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/map-flatMap/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/reduce/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/find-findIndex-some-every/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/sort/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/obiekt-array/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/tablice/porownanie-tablic/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/podstawy-obiektow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/metody-obiektow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/tworzenie-obiektow-inaczej/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/konfiguracja-pol/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/poruszanie-sie-po-obiektach/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/operator-spread/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/destrukcja-obiektow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/porownanie-referencji/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/obiekty/kopiowanie-laczenie-obiektow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/prototypy/lancuch-prototypow/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/prototypy/petla-for/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/prototypy/nadpisywanie-metod-prototypu/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/prototypy/nie-uzywamy-__proto__/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/prototypy/prototyp-funkcji/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/klasy/klasy-w-javascript/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/klasy/statyczne-pola-i-metody/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/klasy/dziedziczenie/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/klasy/rozszerzenie-klas-bazowych/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/klasy/typeof-vs-instanceof/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/this/co-to-jest/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/this/this-w-obiektach/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/this/this-i-funkcje-strzalkowe/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/this/zagubiony-this/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/this/metoda-bind/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/this/metod-apply-i-call/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kurs-javascript.pl/linki/</loc>
+  <lastmod>2021-10-14T12:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
